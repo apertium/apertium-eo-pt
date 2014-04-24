@@ -2,10 +2,10 @@
 <dictionary>
 	<alphabet/>
 	<sdefs>
-    	<sdef n="n">
- 		<sdef n="adj">
-  		<sdef n="adv">
-	    <sdef n="vblex">
+    	<sdef n="n"/>
+ 		<sdef n="adj"/>
+  		<sdef n="adv"/>
+	    <sdef n="vblex"/>
 	</sdefs>
 
 	<section id="main" type="standard">	
